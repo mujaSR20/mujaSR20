@@ -14,5 +14,7 @@ I want to protect people and organizations from those who do harm for their want
 - Basic mySQL
 - JavaScript (leanring)
 - Python (learning)
+- linux (learning)
+
 
 
