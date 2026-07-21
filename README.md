@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Mujahid
+## Cybersecurity and Information Technology Student
 
-<!--
-**mujaSR20/mujaSR20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a  college degree in **Bachelors Degree of Information Technology** as well as partaking on an certificate from **Coursera's Google Cybersecurity** program.
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+I want to protect people and organizations from those who do harm for their wants, giving me passion in pursuing Cyber Security. Aiming to be an Security Analyst, my integrity and values hold true to my nature.
+
+
+## Skills & learning
+- Basic HTML and CSS
+- Basic mySQL
+- JavaScript (leanring)
+- Python (learning)
+
+
