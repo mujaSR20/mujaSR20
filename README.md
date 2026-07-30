@@ -22,10 +22,9 @@ To learn and connect, improve by trial and learn from mistakes while holding my 
 
 ### 🎓 Academic Assignments
 * 
-* 
+
 
 ### 💻 Personal Projects
-* 
 * 
 
 
