@@ -1,7 +1,7 @@
 # Hello, I'm Mujahid
 ## Cybersecurity and Information Technology Student
 
-I am currently pursuing **Bachelor of Science in Information Technology** as well as partaking on an certificate from **Coursera's Google Cybersecurity** program.
+I am currently pursuing **Bachelor of Science in Information Technology** as well as taking an online course from **Coursera's Google Cybersecurity** program.
 
 --- 
 
@@ -18,6 +18,6 @@ I want to protect people and organizations from those who do harm for their want
 
 ---
 
-## school works/assignments
+## School Works/Assignments
 
 
