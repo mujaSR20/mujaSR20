@@ -21,7 +21,7 @@ To learn and connect, improve by trial and learn from mistakes while holding my 
 ## Projects & Assignments
 
 ### 🎓 Academic Assignments
-* [Web based Member Check in and Payment Ledger System] (https://github.com/mujaSR20/Web-Based-Member-Check-In-and-Payment-Ledger_system) - current project
+* 
 * 
 
 ### 💻 Personal Projects
