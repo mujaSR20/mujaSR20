@@ -6,7 +6,7 @@ I am currently pursuing **Bachelor of Science in Information Technology** as wel
 --- 
 
 ## Objective
-I want to protect people and organizations from those who do harm for their wants, giving me passion in pursuing Cyber Security. Aiming to be an Security Analyst, my integrity and values hold true to my nature.
+To learn and connect, improve by trial and learn from mistakes while holding my values as a person. Aiming to be an Security Analyst as I walk on my journey.
 
 
 ## Skills & learning
