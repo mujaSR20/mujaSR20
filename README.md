@@ -1,5 +1,5 @@
 # Hello, I'm Mujahid
-## Cybersecurity and Information Technology Student
+## Cybersecurity and Information Technology Student 💻
 
 I am currently pursuing **Bachelor of Science in Information Technology** as well as taking an online course from **Coursera's Google Cybersecurity** program.
 
@@ -18,6 +18,14 @@ To learn and connect, improve by trial and learn from mistakes while holding my 
 
 ---
 
-## School Works/Assignments
+## Projects & Assignments
+
+### 🎓 Academic Assignments
+* 
+* 
+
+### 💻 Personal Projects
+* 
+* 
 
 
