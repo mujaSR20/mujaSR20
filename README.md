@@ -6,7 +6,7 @@ I am currently pursuing **Bachelor of Science in Information Technology** as wel
 --- 
 
 ## Objective
-To learn and connect, improve by trial and learn from mistakes while holding my values as a person. Aiming to be an Security Analyst as I walk on my journey.
+To learn and connect, improve by trial and learn from mistakes while holding my values as a person. Aiming to be an Security Analyst as I walk on the path I created for myself.
 
 
 ## Skills & learning
